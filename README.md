@@ -1,10 +1,10 @@
 .
 
-🍬 La Receta Perdida — Candyfreind
+#🍬 La Receta Perdida — Candyfreind
 
 Videojuego de plataformas y aventura en 3D ambientado en un universo dulce y creativo, donde el jugador deberá recuperar las partículas esenciales del Núcleo Dulce tras un sabotaje industrial.
 
-📖 Descripción del Proyecto
+##📖 Descripción del Proyecto
 
 La Receta Perdida — Candyfreind es un videojuego de aventura en tercera persona donde el jugador controla a Reinaldo, un joven apasionado por los dulces que queda atrapado en medio de un sabotaje dentro de la prestigiosa fábrica Candyfreind.
 
@@ -12,7 +12,7 @@ Durante la presentación del producto experimental “Núcleo Dulce”, una expl
 
 El jugador deberá explorar distintos mundos temáticos, superar obstáculos, resolver puzzles y enfrentar enemigos corrompidos para restaurar el sistema principal y evitar que la competencia destruya el legado de la fábrica.
 
-🎮 Características Principales
+##🎮 Características Principales
 
 Movimiento libre en entorno 3D
 
@@ -28,7 +28,7 @@ Enemigos con patrones de comportamiento
 
 Narrativa integrada al gameplay
 
-🌎 Mundos del Juego
+##🌎 Mundos del Juego
 
 Bosque de Caramelos
 
@@ -42,7 +42,7 @@ Laboratorio Secreto de Magnus
 
 Cada mundo introduce nuevas mecánicas y desafíos progresivos.
 
-🧠 Mecánicas de Juego
+##🧠 Mecánicas de Juego
 Movimiento
 
 Correr
@@ -71,19 +71,19 @@ Drones enviados por Magnus
 
 Jefes por mundo
 
-🏭 Contexto Narrativo
+##🏭 Contexto Narrativo
 
 La historia se desarrolla dentro de la fábrica Candyfreind, reconocida por sus recetas heredadas por generaciones. El antagonista, Magnus, busca monopolizar el mercado mediante sabotaje tecnológico y manipulación industrial.
 
 El objetivo final es reactivar el Núcleo Dulce y restaurar la estabilidad del mundo dulce.
 
-🚀 Estado del Proyecto
+##🚀 Estado del Proyecto
 
 🟡 En fase de diseño conceptual
 
 🔜 Próximo paso: Desarrollo del primer corte vertical (escena núcleo jugable)
 
-🎯 MVP (Versión Inicial)
+##🎯 MVP (Versión Inicial)
 
 La primera versión incluirá:
 
@@ -98,22 +98,22 @@ Recolección de partículas
 Interfaz básica funcional
 
 
-📌 Objetivo Académico
+##📌 Objetivo Académico
 
 Proyecto desarrollado con fines académicos para aplicar conceptos de:
 
-Diseño de videojuegos
+-Diseño de videojuegos
 
-Programación orientada a objetos
+-Programación orientada a objetos
 
-Diseño de niveles
+-Diseño de niveles
 
-Narrativa interactiva
+-Narrativa interactiva
 
-Desarrollo 3D
+-Desarrollo 3D
 
 📄 Licencia
 
-Proyecto académico sin fines comerciales.
+-Proyecto académico sin fines comerciales.
 
 
