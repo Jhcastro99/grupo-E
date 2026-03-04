@@ -1,5 +1,6 @@
 .
-
+![Estado](https://img.shields.io/badge/status-en%20desarrollo-yellow)
+![Versión](https://img.shields.io/badge/version-1.0.0-blue)
 #🍬 La Receta Perdida — Candyfreind
 
 Videojuego de plataformas y aventura en 3D ambientado en un universo dulce y creativo, donde el jugador deberá recuperar las partículas esenciales del Núcleo Dulce tras un sabotaje industrial.
