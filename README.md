@@ -101,7 +101,7 @@ La primera versión incluirá:
 -[] Interfaz básica funcional
 
 
-##📌 Objetivo Académico
+## 📌 Objetivo Académico
 
 Proyecto desarrollado con fines académicos para aplicar conceptos de:
 
@@ -115,7 +115,7 @@ Proyecto desarrollado con fines académicos para aplicar conceptos de:
 
 --[] Desarrollo 3D
 
-📄 Licencia
+## 📄 Licencia
 
 -Proyecto académico sin fines comerciales.
 
