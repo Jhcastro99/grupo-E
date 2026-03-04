@@ -1,11 +1,12 @@
-.
+
 ![Estado](https://img.shields.io/badge/status-en%20desarrollo-yellow)
 ![Versión](https://img.shields.io/badge/version-1.0.0-blue)
-#🍬 La Receta Perdida — Candyfreind
+
+# 🍬 La Receta Perdida — Candyfreind
 
 Videojuego de plataformas y aventura en 3D ambientado en un universo dulce y creativo, donde el jugador deberá recuperar las partículas esenciales del Núcleo Dulce tras un sabotaje industrial.
 
-##📖 Descripción del Proyecto
+## 📖 Descripción del Proyecto
 
 La Receta Perdida — Candyfreind es un videojuego de aventura en tercera persona donde el jugador controla a Reinaldo, un joven apasionado por los dulces que queda atrapado en medio de un sabotaje dentro de la prestigiosa fábrica Candyfreind.
 
@@ -13,7 +14,7 @@ Durante la presentación del producto experimental “Núcleo Dulce”, una expl
 
 El jugador deberá explorar distintos mundos temáticos, superar obstáculos, resolver puzzles y enfrentar enemigos corrompidos para restaurar el sistema principal y evitar que la competencia destruya el legado de la fábrica.
 
-##🎮 Características Principales
+## 🎮 Características Principales
 
 Movimiento libre en entorno 3D
 
@@ -29,7 +30,7 @@ Enemigos con patrones de comportamiento
 
 Narrativa integrada al gameplay
 
-##🌎 Mundos del Juego
+## 🌎 Mundos del Juego
 
 Bosque de Caramelos
 
@@ -43,42 +44,43 @@ Laboratorio Secreto de Magnus
 
 Cada mundo introduce nuevas mecánicas y desafíos progresivos.
 
-##🧠 Mecánicas de Juego
-Movimiento
+## 🧠 Mecánicas de Juego
 
-Correr
+### Movimiento
 
-Salto básico
+-[] Correr
 
-Salto avanzado
+-[] Salto básico
 
-Agarre en superficies pegajosas
+-[] Salto avanzado
 
-Interacción con plataformas móviles
+-[] Agarre en superficies pegajosas
 
-Sistema de Progreso
+-[] Interacción con plataformas móviles
 
-Recolección de partículas dulces
+-[] Sistema de Progreso
 
-Desbloqueo de habilidades
+-[] Recolección de partículas dulces
 
-Acceso progresivo a nuevas zonas
+-[] Desbloqueo de habilidades
 
-Enemigos
+-[] Acceso progresivo a nuevas zonas
 
-Criaturas dulces corrompidas
+-[] Enemigos
 
-Drones enviados por Magnus
+-[] Criaturas dulces corrompidas
 
-Jefes por mundo
+-[] Drones enviados por Magnus
 
-##🏭 Contexto Narrativo
+-[] Jefes por mundo
+
+## 🏭 Contexto Narrativo
 
 La historia se desarrolla dentro de la fábrica Candyfreind, reconocida por sus recetas heredadas por generaciones. El antagonista, Magnus, busca monopolizar el mercado mediante sabotaje tecnológico y manipulación industrial.
 
 El objetivo final es reactivar el Núcleo Dulce y restaurar la estabilidad del mundo dulce.
 
-##🚀 Estado del Proyecto
+## 🚀 Estado del Proyecto
 
 🟡 En fase de diseño conceptual
 
@@ -88,15 +90,15 @@ El objetivo final es reactivar el Núcleo Dulce y restaurar la estabilidad del m
 
 La primera versión incluirá:
 
-1 mundo jugable completo
+-[] 1 mundo jugable completo
 
-Sistema básico de movimiento
+-[] Sistema básico de movimiento
 
-Recolección de partículas
+-[] Recolección de partículas
 
-1 jefe intermedio
+-[] 1 jefe intermedio
 
-Interfaz básica funcional
+-[] Interfaz básica funcional
 
 
 ##📌 Objetivo Académico
