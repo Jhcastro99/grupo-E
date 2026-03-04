@@ -52,6 +52,7 @@ El objetivo final es reactivar el Núcleo Dulce y restaurar la estabilidad del m
 🚀 Estado del Proyecto
 
 🟡 En fase de diseño conceptual
+
 🔜 Próximo paso: Desarrollo del primer corte vertical (escena núcleo jugable)
 
 🎯 MVP (Versión Inicial)
