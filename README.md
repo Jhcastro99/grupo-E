@@ -16,31 +16,31 @@ El jugador deberá explorar distintos mundos temáticos, superar obstáculos, re
 
 ## 🎮 Características Principales
 
-Movimiento libre en entorno 3D
+-[] Movimiento libre en entorno 3D
 
-Sistema de salto avanzado
+-[] Sistema de salto avanzado
 
-Superficies pegajosas con físicas especiales
+-[] Superficies pegajosas con físicas especiales
 
-Recolección de partículas
+-[] Recolección de partículas
 
-Puzzles ambientales
+-[] Puzzles ambientales
 
-Enemigos con patrones de comportamiento
+-[] Enemigos con patrones de comportamiento
 
-Narrativa integrada al gameplay
+-[] Narrativa integrada al gameplay
 
 ## 🌎 Mundos del Juego
 
-Bosque de Caramelos
+-[] Bosque de Caramelos
 
-Río de Chocolate
+-[] Río de Chocolate
 
-Montaña de Caramelo Duro
+-[] Montaña de Caramelo Duro
 
-Ciudad de Gomitas
+-[] Ciudad de Gomitas
 
-Laboratorio Secreto de Magnus
+-[] Laboratorio Secreto de Magnus
 
 Cada mundo introduce nuevas mecánicas y desafíos progresivos.
 
@@ -86,7 +86,7 @@ El objetivo final es reactivar el Núcleo Dulce y restaurar la estabilidad del m
 
 🔜 Próximo paso: Desarrollo del primer corte vertical (escena núcleo jugable)
 
-##🎯 MVP (Versión Inicial)
+## 🎯 MVP (Versión Inicial)
 
 La primera versión incluirá:
 
@@ -105,15 +105,15 @@ La primera versión incluirá:
 
 Proyecto desarrollado con fines académicos para aplicar conceptos de:
 
--Diseño de videojuegos
+--[] Diseño de videojuegos
 
--Programación orientada a objetos
+--[] Programación orientada a objetos
 
--Diseño de niveles
+--[] Diseño de niveles
 
--Narrativa interactiva
+--[] Narrativa interactiva
 
--Desarrollo 3D
+--[] Desarrollo 3D
 
 📄 Licencia
 
